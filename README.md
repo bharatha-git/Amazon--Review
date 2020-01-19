@@ -1,2 +1,2 @@
-# Amazon--Review
+# Amazon-Review
 Use Google Colab
